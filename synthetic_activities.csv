@@ -1,0 +1,220 @@
+text,timestamp
+Wake up,2024-03-16T06:30:00
+Morning routine,2024-03-16T07:00:00
+Breakfast at home,2024-03-16T08:00:00
+Work: team meeting,2024-03-16T09:30:00
+Lunch with client,2024-03-16T12:30:00
+Exercise: evening run,2024-03-16T18:00:00
+Dinner with friends,2024-03-16T19:30:00
+Entertainment: watched a comedy show,2024-03-16T21:00:00
+Sleep,2024-03-16T23:00:00
+Wake up,2024-03-17T07:00:00
+Morning routine,2024-03-17T07:30:00
+Shopping for weekly groceries,2024-03-17T10:00:00
+Studying: read research paper,2024-03-17T14:00:00
+Socializing: coffee with neighbor,2024-03-17T16:30:00
+Evening routine,2024-03-17T20:30:00
+Sleep,2024-03-17T22:30:00
+Wake up,2024-03-18T06:45:00
+Exercise: yoga session,2024-03-18T07:30:00
+Commuting to work,2024-03-18T08:15:00
+Work: project review,2024-03-18T10:00:00
+Lunch at office cafeteria,2024-03-18T12:30:00
+Health: therapy session,2024-03-18T16:00:00
+Dinner at home,2024-03-18T19:00:00
+Sleep,2024-03-18T22:00:00
+Wake up,2024-03-19T06:30:00
+Morning routine,2024-03-19T07:00:00
+Work: coding sprint,2024-03-19T09:00:00
+Social gathering: team lunch,2024-03-19T13:00:00
+Entertainment: played video games,2024-03-19T20:00:00
+Evening routine,2024-03-19T21:30:00
+Sleep,2024-03-19T23:00:00
+Wake up,2024-03-20T07:00:00
+Breakfast with family,2024-03-20T08:00:00
+Travel: weekend trip planning,2024-03-20T10:00:00
+Exercise: cycling in park,2024-03-20T17:00:00
+Dinner at a new restaurant,2024-03-20T19:30:00
+Sleep,2024-03-20T22:30:00
+Wake up,2024-03-21T06:30:00
+Morning routine,2024-03-21T07:00:00
+Work: client feedback session,2024-03-21T09:30:00
+Lunch with mentor,2024-03-21T12:30:00
+Studying: online course module,2024-03-21T15:00:00
+Evening routine,2024-03-21T20:30:00
+Sleep,2024-03-21T22:00:00
+Wake up,2024-03-22T07:00:00
+Exercise: morning swim,2024-03-22T08:00:00
+Work: presentation prep,2024-03-22T10:00:00
+Shopping: bought new shoes,2024-03-22T16:00:00
+Entertainment: movie night,2024-03-22T19:30:00
+Sleep,2024-03-22T23:00:00
+Wake up,2024-03-23T07:30:00
+Morning routine,2024-03-23T08:00:00
+Family events: visited relatives,2024-03-23T11:00:00
+Lunch at family gathering,2024-03-23T13:00:00
+Socializing: board game afternoon,2024-03-23T15:00:00
+Dinner at home,2024-03-23T19:00:00
+Sleep,2024-03-23T22:30:00
+Wake up,2024-03-24T07:00:00
+Exercise: morning jog,2024-03-24T08:00:00
+Work: updated project docs,2024-03-24T10:00:00
+Entertainment: watched a documentary,2024-03-24T20:00:00
+Evening routine,2024-03-24T21:30:00
+Sleep,2024-03-24T23:00:00
+Wake up,2024-03-25T06:30:00
+Morning routine,2024-03-25T07:00:00
+Work: team brainstorming,2024-03-25T09:30:00
+Lunch with colleagues,2024-03-25T12:30:00
+Health: meditation practice,2024-03-25T18:00:00
+Dinner at home,2024-03-25T19:30:00
+Sleep,2024-03-25T22:30:00
+Wake up,2024-03-26T07:00:00
+Exercise: gym workout,2024-03-26T08:00:00
+Commuting to work,2024-03-26T08:45:00
+Work: code review,2024-03-26T10:00:00
+Shopping: grocery run,2024-03-26T17:00:00
+Entertainment: read a novel,2024-03-26T20:00:00
+Sleep,2024-03-26T23:00:00
+Wake up,2024-03-27T06:30:00
+Morning routine,2024-03-27T07:00:00
+Education: attended webinar,2024-03-27T10:00:00
+Lunch at a cafe,2024-03-27T12:30:00
+Socializing: met old friend,2024-03-27T16:00:00
+Dinner with partner,2024-03-27T19:30:00
+Evening routine,2024-03-27T21:00:00
+Sleep,2024-03-27T22:30:00
+Wake up,2024-03-28T07:00:00
+Exercise: morning yoga,2024-03-28T07:30:00
+Work: project milestone,2024-03-28T09:30:00
+Lunch with team,2024-03-28T13:00:00
+Entertainment: attended theater play,2024-03-28T19:00:00
+Sleep,2024-03-28T23:00:00
+Wake up,2024-03-29T06:45:00
+Morning routine,2024-03-29T07:15:00
+Work: client call,2024-03-29T10:00:00
+Shopping: bought electronics,2024-03-29T16:00:00
+Dinner at home,2024-03-29T19:30:00
+Evening routine,2024-03-29T21:00:00
+Sleep,2024-03-29T22:30:00
+Wake up,2024-03-30T07:00:00
+Exercise: cycling session,2024-03-30T08:00:00
+Family events: kids' school event,2024-03-30T10:30:00
+Lunch with family,2024-03-30T13:00:00
+Entertainment: watched sports game,2024-03-30T19:00:00
+Sleep,2024-03-30T23:00:00
+Wake up,2024-03-31T07:30:00
+Morning routine,2024-03-31T08:00:00
+Studying: coding practice,2024-03-31T10:00:00
+Socializing: picnic with friends,2024-03-31T14:00:00
+Dinner at home,2024-03-31T19:30:00
+Evening routine,2024-03-31T21:00:00
+Sleep,2024-03-31T22:30:00
+Wake up,2024-04-01T06:30:00
+Exercise: morning run,2024-04-01T07:30:00
+Work: sprint planning,2024-04-01T09:30:00
+Lunch at office,2024-04-01T12:30:00
+Health: dentist appointment,2024-04-01T15:00:00
+Dinner with friends,2024-04-01T19:30:00
+Sleep,2024-04-01T23:00:00
+Wake up,2024-04-02T07:00:00
+Morning routine,2024-04-02T07:30:00
+Work: debugging session,2024-04-02T10:00:00
+Shopping: home decor,2024-04-02T16:00:00
+Entertainment: listened to podcast,2024-04-02T20:00:00
+Evening routine,2024-04-02T21:30:00
+Sleep,2024-04-02T22:30:00
+Wake up,2024-04-03T06:45:00
+Exercise: gym workout,2024-04-03T07:30:00
+Commuting to work,2024-04-03T08:15:00
+Work: team retrospective,2024-04-03T10:00:00
+Lunch with mentor,2024-04-03T12:30:00
+Socializing: coffee chat,2024-04-03T16:00:00
+Dinner at home,2024-04-03T19:30:00
+Sleep,2024-04-03T22:30:00
+Wake up,2024-04-04T07:00:00
+Morning routine,2024-04-04T07:30:00
+Education: online workshop,2024-04-04T10:00:00
+Lunch at a food truck,2024-04-04T12:30:00
+Exercise: evening walk,2024-04-04T18:00:00
+Entertainment: read a book,2024-04-04T20:00:00
+Sleep,2024-04-04T23:00:00
+Wake up,2024-04-05T06:30:00
+Exercise: morning yoga,2024-04-05T07:30:00
+Work: client presentation,2024-04-05T09:30:00
+Lunch with colleagues,2024-04-05T13:00:00
+Shopping: grocery run,2024-04-05T17:00:00
+Dinner with family,2024-04-05T19:30:00
+Evening routine,2024-04-05T21:00:00
+Sleep,2024-04-05T22:30:00
+Wake up,2024-04-06T07:00:00
+Morning routine,2024-04-06T07:30:00
+Travel: day trip to countryside,2024-04-06T09:00:00
+Lunch at a local diner,2024-04-06T13:00:00
+Socializing: met new people,2024-04-06T15:00:00
+Entertainment: photography walk,2024-04-06T17:00:00
+Dinner at home,2024-04-06T19:30:00
+Sleep,2024-04-06T23:00:00
+Wake up,2024-04-07T07:30:00
+Exercise: morning jog,2024-04-07T08:00:00
+Family events: helped with chores,2024-04-07T10:00:00
+Lunch with family,2024-04-07T13:00:00
+Studying: reviewed notes,2024-04-07T15:00:00
+Evening routine,2024-04-07T20:30:00
+Sleep,2024-04-07T22:30:00
+Wake up,2024-04-08T06:30:00
+Morning routine,2024-04-08T07:00:00
+Work: project kickoff,2024-04-08T09:30:00
+Lunch at office,2024-04-08T12:30:00
+Health: mindfulness session,2024-04-08T16:00:00
+Dinner with partner,2024-04-08T19:30:00
+Entertainment: watched a series,2024-04-08T21:00:00
+Sleep,2024-04-08T23:00:00
+Wake up,2024-04-09T07:00:00
+Exercise: gym workout,2024-04-09T08:00:00
+Commuting to work,2024-04-09T08:45:00
+Work: code deployment,2024-04-09T10:00:00
+Shopping: bought books,2024-04-09T16:00:00
+Evening routine,2024-04-09T20:30:00
+Sleep,2024-04-09T22:30:00
+Wake up,2024-04-10T06:30:00
+Morning routine,2024-04-10T07:00:00
+Work: team sync,2024-04-10T09:30:00
+Lunch with friends,2024-04-10T12:30:00
+Socializing: networking event,2024-04-10T18:00:00
+Dinner at home,2024-04-10T19:30:00
+Sleep,2024-04-10T22:30:00
+Wake up,2024-04-11T07:00:00
+Exercise: morning swim,2024-04-11T08:00:00
+Education: coding bootcamp,2024-04-11T10:00:00
+Lunch at a cafe,2024-04-11T13:00:00
+Entertainment: attended live music,2024-04-11T19:00:00
+Evening routine,2024-04-11T21:00:00
+Sleep,2024-04-11T23:00:00
+Wake up,2024-04-12T06:45:00
+Morning routine,2024-04-12T07:15:00
+Work: client review,2024-04-12T09:30:00
+Shopping: grocery run,2024-04-12T16:00:00
+Dinner with family,2024-04-12T19:30:00
+Sleep,2024-04-12T22:30:00
+Wake up,2024-04-13T07:00:00
+Exercise: cycling in park,2024-04-13T08:00:00
+Family events: attended kids' game,2024-04-13T10:30:00
+Lunch with family,2024-04-13T13:00:00
+Entertainment: watched a movie,2024-04-13T19:00:00
+Sleep,2024-04-13T23:00:00
+Wake up,2024-04-14T07:30:00
+Morning routine,2024-04-14T08:00:00
+Studying: online course,2024-04-14T10:00:00
+Socializing: brunch with friends,2024-04-14T11:30:00
+Exercise: evening yoga,2024-04-14T18:00:00
+Dinner at home,2024-04-14T19:30:00
+Evening routine,2024-04-14T21:00:00
+Sleep,2024-04-14T22:30:00
+Wake up,2024-04-15T06:30:00
+Exercise: morning run,2024-04-15T07:30:00
+Work: project deadline,2024-04-15T09:30:00
+Lunch with colleagues,2024-04-15T12:30:00
+Health: therapy session,2024-04-15T16:00:00
+Entertainment: read a novel,2024-04-15T20:00:00
+Sleep,2024-04-15T23:00:00
