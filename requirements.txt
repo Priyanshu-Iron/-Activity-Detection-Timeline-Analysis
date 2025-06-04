@@ -1,0 +1,15 @@
+streamlit
+requests
+pandas
+numpy
+plotly
+python-dateutil
+scikit-learn
+nltk
+textblob
+email-validator
+python-dotenv
+transformers
+python-dotenv
+imaplib2
+# streamlit run streamlit_app/main.py
